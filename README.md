@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @topmonroe9
 - 👀 FullStack Web Developer
 - 🌱 Main Stack - Nest, Angular
-- 📫 In love with TS, Learning C#
+- ❤️ In love with TS, Learning C#
 - 📫 You can reach me by https://t.me/top_monroe
 
 <!---
