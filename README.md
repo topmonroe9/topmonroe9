@@ -18,6 +18,11 @@
 - **Founder @ [Monroe Tech](https://monroe-tech.dev)** — business automation, AI & analytics. We help teams replace glue code and manual ops with systems that just work.
 - **Founder @ [Мила.Практис](https://milapractice.ru)** — a "second brain" for private practitioners: scheduling, AI-powered session notes, payments, secure client profiles. Built for psychologists, coaches, tutors and other solo pros.
 - **Maintainer @ [TraderMap](https://tradermap.io)** — real-time whale and large-trade intel for crypto traders.
+- **Maintainer @ [whisper-writer](https://github.com/topmonroe9/whisper-writer)** — my actively-maintained fork of the Whisper-based dictation app. Local speech-to-text, no friction.
+
+### Before all this
+
+Years of engineering in the enterprise trenches. I've built software used inside **major oil & gas companies** and applied systems for **construction automation** — the kind of work where a missed edge case costs real money and real time on site. That background still shapes how I build today: boring reliability beats clever tricks, and the real product is usually the workflow around the code.
 
 ### A bit about me
 
