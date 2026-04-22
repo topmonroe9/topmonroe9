@@ -20,24 +20,35 @@
 - **Maintainer @ [TraderMap](https://tradermap.io)** — real-time whale and large-trade intel for crypto traders.
 - **Maintainer @ [whisper-writer](https://github.com/topmonroe9/whisper-writer)** — my actively-maintained fork of the Whisper-based dictation app. Local speech-to-text, no friction.
 
-### Before all this
+### How I build
 
-Years of engineering in the enterprise trenches. I've built software used inside **major oil & gas companies** and applied systems for **construction automation** — the kind of work where a missed edge case costs real money and real time on site. That background still shapes how I build today: boring reliability beats clever tricks, and the real product is usually the workflow around the code.
+Boring reliability over clever tricks. I'd rather ship a small thing this week than a perfect thing next quarter. The real product is usually the workflow around the code, not the framework choice.
+
+### From the trenches
+
+Years of engineering in the enterprise. Software running inside major **oil & gas** companies, applied systems for **construction automation** — the kind of work where a missed edge case costs real money and real time on site.
+
+Along the way I built a full **ERP that replaced 60+ Google Sheets at a 120-person company**, ran the analytics stack on **PostgreSQL + Metabase**, and led small engineering teams of 4–5. 7+ years backend, mostly TypeScript and Postgres.
+
+That background still shapes how I build today.
+
+### Open source
+
+I maintain an active fork of [whisper-writer](https://github.com/topmonroe9/whisper-writer) — local Whisper-based dictation, runs offline. Past contributions to [Sequelize](https://github.com/sequelize/sequelize).
 
 ### A bit about me
 
 Engineer by heart, product person by trade. An incurable builder — I get genuinely excited when a messy workflow collapses into a clean piece of software that quietly removes a chore from someone's day.
 
-I care about lean code, sharp UX, and products that stay out of the way. I'd rather ship a small thing this week than a perfect thing next quarter.
+I care about lean code, sharp UX, and products that stay out of the way.
 
-### Currently into
+### Off-screen
 
-- **AI-native tooling** — agents, voice interfaces, and the surprisingly human side of LLMs
-- **Indie SaaS** — small products with sharp focus and real users
-- **Automation** — if it runs more than twice, it probably shouldn't run by hand
-- **The craft of shipping** — speed, taste, and the discipline between them
+Biker (Kawasaki ER-6n), climber, currently obsessing over Chinese tea.
 
 ### Let's talk
+
+Open to **fractional engineering**, **automation & AI consulting**, and **early-stage SaaS** work.
 
 <p>
   <a href="https://monroe-tech.dev"><img alt="Website" src="https://img.shields.io/badge/Website-monroe--tech.dev-0A0A0A?style=flat-square&logo=googlechrome&logoColor=white"></a>
